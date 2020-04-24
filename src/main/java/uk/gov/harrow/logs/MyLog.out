@@ -1,0 +1,8 @@
+2020-04-23 21:04:717 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-23 21:04:790 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-23 22:04:201 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-23 22:04:934 INFO       HomePage :21 -  Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-23 22:04:950 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-23 22:04:420 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-23 22:04:591 INFO       HomePage :21 -  Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-23 22:04:591 INFO       BrowserSelector :18 - Launching Chrome Browser
